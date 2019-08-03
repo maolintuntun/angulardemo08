@@ -1,0 +1,7 @@
+Project Requirement:
+Create a function that can highlight the special text we want in a web page,
+    but we don't need use <div></div> for that text each time.
+
+Ideas:
+1. Call Mark.js API( No framework, running on browser's terminal, Meet some problems so far, can't call)
+2. Try React. ( Heard it has the function, but haven't learned yet.)
