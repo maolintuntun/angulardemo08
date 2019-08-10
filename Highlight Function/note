@@ -5,3 +5,11 @@ Create a function that can highlight the special text we want in a web page,
 Ideas:
 1. Call Mark.js API( No framework, running on browser's terminal, Meet some problems so far, can't call)
 2. Try React. ( Heard it has the function, but haven't learned yet.)
+
+7.14 Note：
+1.今天下载了mark.js 搞明白了这个是一个文件下载
+2.下载了Angular8的实战视频教程
+3.想要解决之前的页面被改动之后无法显示的问题，但是又出现报错deplicate。。remove。
+4.我打开了教程的demo代码 但是显示没有安装angular
+
+之后直接使用教程的demo代码来做
